@@ -1,0 +1,4 @@
+base:
+  urls:
+      clickBus: 'https://www.clickbus.com.br/onibus/'
+      transbraz: 'https://transbraz.guichevirtual.com.br/'
